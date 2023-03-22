@@ -1,0 +1,5 @@
+Basophilic	100	127,201,127
+Eosinophil	100	190,186,218
+Neutrophil	100	251,128,114
+Lymphocyte	100	55,126,184
+hemoglobin	100	180,224,224
